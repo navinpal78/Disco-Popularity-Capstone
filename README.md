@@ -6,7 +6,7 @@
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset]([https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv](https://www.kaggle.com/datasets/thebumpkin/700-classic-disco-tracks-with-spotify-data))
 
 Description of dataset
 
