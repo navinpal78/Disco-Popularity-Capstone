@@ -2,15 +2,35 @@
 
 # My first capstone
 
-### An analysis of snake-eating squirrels in Peru in 1988
+### An analysis of Disco Music in Spotify
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
+![Screenshot of dashboard](https://i.imgur.com/evjrl2q.jpg)
 
-[Link to dataset]([https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv](https://www.kaggle.com/datasets/thebumpkin/700-classic-disco-tracks-with-spotify-data))
+[Link to dataset](https://www.kaggle.com/datasets/thebumpkin/700-classic-disco-tracks-with-spotify-data)
 
 Description of dataset
 
-(Para about your findings and techniques you used) "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+The dataset from Kaggle is data from Spotify, mainly looking at **Disco Music** with the following information:
+1. **Track**
+2. **Artist**
+3. **Album**
+4. **Year**
+5. **Duration**
+6. **Time_Signature**
+7. **Danceability**
+8. **Energy**
+9. **Key**
+10. **Loudness**
+11. **Mode**
+12. **Speechiness**
+13. **Acousticness**
+14. **Instrumentalness**
+15. **Liveness**
+16. **Valence**
+17. **Tempo**
+18. **Popularity**
+
+
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
@@ -41,4 +61,4 @@ What you learned
 
 What you'd change
 
-Link to your LinkedIn
+[LinkedIn](https://www.linkedin.com/in/navin-pal-singh-6624488)
