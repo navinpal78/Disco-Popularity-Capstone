@@ -33,32 +33,39 @@ The dataset from Kaggle is data from Spotify, mainly looking at **Disco Music** 
 
 
 <details>
-<summary><b>Foldable hidden section</b></summary>
+<summary><b>The project explores how musical attributes affect popularity using machine learning</b></summary>
 
-Any folded content here. It requires an empty line just above it!
+It provides insights into the relationships between song attributes and their success. Using these insights, Musicians, Musical Directors, Music Distributors, and Streaming Platforms can decide what makes good music for Listeners and produce and stream music accordingly.
+
+For this Capstone project, I narrowed it down to Disco music and found the dataset on Kaggle.
 
 </details>
 
 
 <details>
-  <summary>Click me</summary>
+  <summary>General Observations</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
+  ### DISCO!!!
+  1. The more popular Disco Music are those with the following attributes
+     * Short Duration
+     * High Danceability
+     * High Energy
+     * Mid-High Loudnes
+     * Mid Tempo
+  2. There is a higher popularity correlation are with the following
+     * Danceability & Valence
+     * Energy & Loudness
+     * Acoustics & Energy
 
 </details>
-
-What you learned
+ 
+<b>Trials and Triumphs</b>
+Cleaning up the data and coding to ensure that the data made sense was difficult initially. Especially when errors are related to the columns' data and used in various training and modeling.
 
 What you'd change
+1.  Reading & understanding the data before even processing the dataset
+2.  Plan the process better based on the dataset understanding.
+3.  Explore more tool and libraries available to help with designing a better outcome for the ML training.
+
 
 [LinkedIn](https://www.linkedin.com/in/navin-pal-singh-6624488)
