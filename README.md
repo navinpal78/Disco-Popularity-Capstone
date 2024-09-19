@@ -62,7 +62,7 @@ For this Capstone project, I narrowed it down to Disco music and found the datas
 <b>Trials and Triumphs</b>
 Cleaning up the data and coding to ensure that the data made sense was difficult initially. Especially when errors are related to the columns' data and used in various training and modeling.
 
-What you'd change
+<b>Looking Forward</b>
 1.  Reading & understanding the data before even processing the dataset
 2.  Plan the process better based on the dataset understanding.
 3.  Explore more tool and libraries available to help with designing a better outcome for the ML training.
